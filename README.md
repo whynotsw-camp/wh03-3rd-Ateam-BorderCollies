@@ -13,11 +13,11 @@
 - **테스트 및 발표 준비**: 2025년 5월 14일 - 5월 24일
 
 ## 3. 팀 Border Collies 구성
-- **박성민 | 팀장**: 프로젝트 총괄, 프론트엔드(Flutter) 리드, API 서버 구축 보조
-- **김수민 | 팀원**: 백엔드 기능 총괄, 딥러닝 구현 및 테스트
-- **김진욱 | 팀원**: 수석개발자, API 서버 구축 리드, 백엔드 기능 보조
-- **유연우 | 팀원**: 딥러닝 구현 및 테스트, DB 관리자
-- **주용민 | 팀원**: 프론트엔드(Flutter), UI/UX 설계
+- **박성민 | 팀장** <a href="https://github.com/seonpar" target="_blank"><img src="https://img.shields.io/badge/GitHub-Link-black?style=flat&logo=github&logoColor=white" /></a>: 프로젝트 총괄, 프론트엔드(Flutter) 리드, API 서버 구축 보조
+- **김수민 | 팀원** <a href="https://github.com/s00min12" target="_blank"><img src="https://img.shields.io/badge/GitHub-Link-black?style=flat&logo=github&logoColor=white" /></a>: 백엔드 기능 총괄, 딥러닝 구현 및 테스트
+- **김진욱 | 팀원** <a href="https://github.com/GlazedBream" target="_blank"><img src="https://img.shields.io/badge/GitHub-Link-black?style=flat&logo=github&logoColor=white" /></a>: 수석개발자, API 서버 구축 리드, 백엔드 기능 보조
+- **유연우 | 팀원** <a href="https://github.com/yeonwooyou" target="_blank"><img src="https://img.shields.io/badge/GitHub-Link-black?style=flat&logo=github&logoColor=white" /></a>: 딥러닝 구현 및 테스트, DB 관리자
+- **주용민 | 팀원** <a href="https://github.com/juyongmin" target="_blank"><img src="https://img.shields.io/badge/GitHub-Link-black?style=flat&logo=github&logoColor=white" /></a>: 프론트엔드(Flutter), UI/UX 설계
 
 ---
 # 요구사항 정의서
